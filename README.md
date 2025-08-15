@@ -12,6 +12,7 @@
 
 💻 **Software Development Student** | **Full Stack Enthusiast**  
 📚 Currently studying a Diploma in Software Development (Java, JavaScript, MySQL)  
+🎓 Holder of a **Full Stack Application Development Certificate** from FNB  
 🚀 Building projects in **web development** & **backend systems**  
 🤖 Aspiring **AI & Machine Learning Engineer**  
 📍 Based in Johannesburg, South Africa  
@@ -36,6 +37,10 @@
 ## 📌 Projects  
 
 - **[Backend Messaging Software (Java)](#)** — Java-based backend messaging app for sending, receiving, and storing messages.  
+- **[Superhero Website](#)** — Fun and interactive superhero-themed website.  
+- **[Zoo Website](#)** — Informational and interactive zoo showcase.  
+- **[Contact Book Website](#)** — Digital contact management web app.  
+- **[Calculator](#)** — Simple yet responsive calculator using HTML, CSS, and JavaScript.  
 - **[AuthentiCheck Landing Page](#)** — Converted React + Tailwind design into a responsive HTML/CSS/JS site.  
 - **[Personal Portfolio Website](#)** — Responsive portfolio showcasing my work and skills.  
 
