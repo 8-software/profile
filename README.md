@@ -44,7 +44,7 @@
 - **[AuthentiCheck Landing Page](#)** — Converted React + Tailwind design into a responsive HTML/CSS/JS site.  
 - **[Personal Portfolio Website](#)** — Responsive portfolio showcasing my work and skills.  
 
-*(Replace `#` with your GitHub repo links)*  
+
 
 ---
 
